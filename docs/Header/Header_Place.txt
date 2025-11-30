@@ -1,0 +1,1 @@
+This is for storing header or text images from the dashboard
